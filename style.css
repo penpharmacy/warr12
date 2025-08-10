@@ -1,0 +1,24 @@
+body {
+    font-family: "Tahoma", sans-serif;
+    margin: 2rem;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    color: #0055aa;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #0055aa;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #003f7d;
+}
